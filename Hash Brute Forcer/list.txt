@@ -1,0 +1,7 @@
+root
+admin
+kali
+user
+mohamed
+khaled
+ad2022
